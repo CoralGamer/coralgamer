@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CoralGamer&theme=dracula&no-bg=true&no-frame=true&column=4" alt="github profile trophy" />
+    <img src="https://gh-trophy.cdnsoft.net/?username=CoralGamer&theme=dracula&no-bg=true&no-frame=true&column=4" alt="github profile trophy" />
   </a>
 </p>
 
@@ -83,9 +83,9 @@ He organizado mis proyectos más representativos según su área de desarrollo y
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=CoralGamer&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="180px" />
+    <img src="https://github-readme-stats-alpha.vercel.app/api?username=CoralGamer&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" height="180px" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoralGamer&layout=compact&theme=dracula" alt="Top Languages" height="180px" />
+    <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=CoralGamer&layout=compact&theme=dracula" alt="Top Languages" height="180px" />
   </a>
 </p>
