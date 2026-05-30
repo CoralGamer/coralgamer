@@ -30,9 +30,10 @@
 
 ### 📖 Sobre Mí
 
-* 📱 **Desarrollo Mobile, Inmersivo y 3D**: Apasionado por la creación de aplicaciones móviles nativas e híbridas con **React Native**, **Expo**, **Android Studio** y **Kotlin**. También desarrollo experiencias 3D inmersivas de **Realidad Virtual (VR)** y **Aumentada (AR)** usando **A-Frame**, **Three.js** y **Unity**.
-* 🎮 **Roblox Studio & Unity**: Diseño y desarrollo de videojuegos interactivos utilizando el motor de Roblox Studio con **Lua**, y programación de mecánicas y entornos complejos en Unity usando **C#**.
-* 🛠️ **Desarrollador Full-Stack y Políglota**: Sólida experiencia integrando arquitecturas que conectan **TypeScript, JavaScript, C#, Python, C++ y Kotlin** con bases de datos potentes como **PostgreSQL** y **MySQL**.
+* 📱 **Desarrollo Mobile, Inmersivo y 3D**: Apasionado por la creación de aplicaciones móviles nativas e híbridas con **React Native**, **Flutter**, **Expo**, **Android Studio** y **Kotlin**. También desarrollo experiencias 3D inmersivas de **Realidad Virtual (VR)** y **Aumentada (AR)** usando **A-Frame**, **Three.js** y **Unity**.
+* 🎮 **Roblox Studio, Unity & Arte 3D**: Diseño y desarrollo de videojuegos interactivos utilizando el motor de Roblox Studio con **Lua**, y programación de mecánicas y entornos complejos en Unity usando **C#**. Combino esto con el uso de **Substance Painter** para texturizado en 3D avanzado.
+* 🎬 **Producción Multimedia & Suite de Adobe**: Amplio dominio de la suite completa de Adobe (**Premiere Pro**, **Photoshop**, **Illustrator**, **After Effects**) para edición de video, animación, diseño gráfico y postproducción digital.
+* 🛠️ **Desarrollador Full-Stack y Políglota**: Sólida experiencia integrando arquitecturas que conectan **TypeScript, JavaScript, C#, Python, C++ y Kotlin** con bases de datos potentes como **PostgreSQL**, **MySQL**, **Firebase** y **Supabase**.
 * ⚙️ **Automatización de Sistemas**: Especialización programando y automatizando terminales **Bash** eficientes a través de **Python**.
 * 🔒 **Proyectos Activos**: Mantengo y alimento a diario repositorios privados dedicados a proyectos personales complejos y desarrollo profesional continuo.
 
@@ -40,8 +41,8 @@
 
 ### 🛠️ Mis Tecnologías y Herramientas
 
-#### 🎨 Frontend, Mobile & Diseño Visual
-[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,threejs,vite,figma&theme=dark)](https://skillicons.dev)
+#### 🎨 Frontend, Mobile, Diseño & Multimedia
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,flutter,tailwind,bootstrap,threejs,vite,figma,photoshop,illustrator,premiere,aftereffects&theme=dark)](https://skillicons.dev)
 
 #### 🔌 Backend, Lenguajes & Bases de Datos
 [![My Skills](https://skillicons.dev/icons?i=js,typescript,cs,python,kotlin,lua,cpp,postgres,mysql,firebase,supabase,bash,powershell&theme=dark)](https://skillicons.dev)
