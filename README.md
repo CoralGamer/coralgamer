@@ -29,23 +29,24 @@
 
 ### 📖 Sobre Mí
 
-* 💻 Actualmente enfocado en el desarrollo de experiencias inmersivas 3D, **Realidad Virtual (VR)** y **Realidad Aumentada (AR)** usando frameworks como **A-Frame**.
-* 🕹️ Apasionado por los videojuegos, la maquetación web detallada y la automatización.
-* 🌱 Siempre aprendiendo: disfruto explorar nuevas herramientas, optimizar conexiones de bases de datos y desplegar en plataformas en la nube.
-* ⚡ *Fun fact:* Me divierte clonar interfaces famosas al 100% de similitud visual para perfeccionar mis habilidades de frontend.
+* 📱 **Desarrollo Mobile, Inmersivo y 3D**: Apasionado por la creación de aplicaciones móviles nativas e híbridas con **React Native**, **Expo**, **Android Studio** y **Kotlin**. También desarrollo experiencias 3D inmersivas de **Realidad Virtual (VR)** y **Aumentada (AR)** usando **A-Frame**, **Three.js** y **Unity**.
+* 🎮 **Roblox Studio & Unity**: Diseño y desarrollo de videojuegos interactivos utilizando el motor de Roblox Studio con **Lua**, y programación de mecánicas y entornos complejos en Unity usando **C#**.
+* 🛠️ **Desarrollador Full-Stack y Políglota**: Sólida experiencia integrando arquitecturas que conectan **TypeScript, JavaScript, C#, Python, C++ y Kotlin** con bases de datos potentes como **PostgreSQL** y **MySQL**.
+* ⚙️ **Automatización de Sistemas**: Especialización programando y automatizando terminales **Bash** eficientes a través de **Python**.
+* 🔒 **Proyectos Activos**: Mantengo y alimento a diario repositorios privados dedicados a proyectos personales complejos y desarrollo profesional continuo.
 
 ---
 
 ### 🛠️ Mis Tecnologías y Herramientas
 
-#### 🎨 Frontend y Diseño Visual
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,figma&theme=dark)](https://skillicons.dev)
+#### 🎨 Frontend, Mobile & Diseño Visual
+[![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,threejs,vite,figma&theme=dark)](https://skillicons.dev)
 
-#### 🔌 Backend, Base de Datos y Scripting
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,python,mysql,powershell&theme=dark)](https://skillicons.dev)
+#### 🔌 Backend, Lenguajes & Bases de Datos
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,csharp,python,kotlin,lua,cpp,postgres,mysql,bash,powershell&theme=dark)](https://skillicons.dev)
 
-#### 🚀 Herramientas y Entornos
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,blender,netlify,railway&theme=dark)](https://skillicons.dev)
+#### 🚀 Herramientas, Compilación & Entornos
+[![My Skills](https://skillicons.dev/icons?i=git,github,unity,androidstudio,vscode,blender,netlify,railway&theme=dark)](https://skillicons.dev)
 
 ---
 
@@ -53,12 +54,13 @@
 
 He organizado mis proyectos más representativos según su área de desarrollo y tecnología:
 
-#### 🕶️ Realidad Virtual (VR), Realidad Aumentada (AR) y 3D
-* 📱 **[AR-project_AFrame](https://github.com/CoralGamer/AR-project_AFrame)**: Ejercicio académico de Realidad Aumentada que renderiza un modelo 3D dinámicamente mediante la detección de marcadores de códigos de barras (*barcodes*). ⭐
-* 🎃 **[Halloween_VR_Animation](https://github.com/CoralGamer/Halloween_VR_Animation)**: Escena animada en Realidad Virtual utilizando keyframes personalizados integrados en los componentes de animación de A-Frame. ⭐
+#### 🕶️ Realidad Virtual (VR), Realidad Aumentada (AR), 3D, Unity & Roblox
+* 🎮 **Roblox Studio & Lua**: Programación de dinámicas interactivas, físicas y mecánicas de juego avanzadas utilizando scripts y algoritmos en **Lua** dentro de Roblox Studio.
+* 🎮 **Unity & C#**: Creación de videojuegos y simulaciones en 3D implementando patrones de programación y scripts robustos en **C#** y físicas de Unity.
+* 📱 **[AR-project_AFrame](https://github.com/CoralGamer/AR-project_AFrame)**: Ejercicio académico de Realidad Aumentada que renderiza un modelo 3D dinámicamente mediante la detección de marcadores de códigos de barras (*barcodes*) con A-Frame y **Three.js**. ⭐
+* 🎃 **[Halloween_VR_Animation](https://github.com/CoralGamer/Halloween_VR_Animation)**: Escena animada en Realidad Virtual utilizando keyframes personalizados integrados en los componentes de animación de A-Frame y renderizado de WebGL. ⭐
 * ♟️ **[aframe_Ajedrez_Animated](https://github.com/CoralGamer/aframe_Ajedrez_Animated)**: Escenario inmersivo con modelos 3D complejos ordenados, agrupados mediante `a-entities` e importados localmente.
 * 🏰 **[aframe-castle-primitives](https://github.com/CoralGamer/aframe-castle-primitives)**: Estructura de muralla medieval construida enteramente a partir de figuras primitivas de tipo caja (*boxes*).
-* 🐱 **[gato-aframe-orbiting](https://github.com/CoralGamer/gato-aframe-orbiting)**: Simulación de órbita y mapeado de texturas (*materials*) aplicados a elementos tridimensionales en A-Frame.
 
 #### 🚀 Clones de Interfaces y Maquetación Web
 * 🎬 **[ICBF_website_clone](https://github.com/CoralGamer/ICBF_website_clone)**: Clon educativo y rebranding completo con fines de producción multimedia para un cortometraje fílmico.
@@ -68,8 +70,9 @@ He organizado mis proyectos más representativos según su área de desarrollo y
 * 🎵 **[Tiktok_Maquetacion](https://github.com/CoralGamer/Tiktok_Maquetacion)**: Recreación visual del apartado "Descubrir" de la interfaz de TikTok.
 * 📺 **[youtubeVideo_Zone_Clone](https://github.com/CoralGamer/youtubeVideo_Zone_Clone)**: Clon interactivo de la zona de reproducción y visualización de vídeos de YouTube.
 
-#### 🌱 Proyectos con Impacto y Utilidades
-* 🍲 **[Aquora-](https://github.com/CoralGamer/Aquora-)**: Solución interactiva de software diseñada para la **Hackathon de Ignia en Colombia**, enfocada en combatir las problemáticas del hambre a nivel local.
+#### 🌱 Proyectos con Impacto, Mobile y Utilidades
+* 🍲 **[Aquora-](https://github.com/CoralGamer/Aquora-)**: Solución integral desarrollada para la **Hackathon de Ignia en Colombia** contra la problemática del hambre. Plataforma móvil construida de forma robusta con **React Native, Expo, Kotlin, TypeScript, JavaScript, Python, C++ y PostgreSQL** para lograr alto rendimiento y escala social.
+* 🖥️ **Automatización de Terminales**: Creación y control de terminales de **Bash** e interacción con el sistema operativo de forma programática a través de scripts de **Python**.
 * 👾 **[ASCII-Video-Player](https://github.com/CoralGamer/ASCII-Video-Player)**: Un ingenioso reproductor desarrollado en Python que decodifica y reproduce streams de video representándolos en puro arte ASCII.
 * 📐 **[ecuaciones-por-pasos](https://github.com/CoralGamer/ecuaciones-por-pasos)** & **[graficas-algebraicas](https://github.com/CoralGamer/graficas-algebraicas)**: Aplicaciones didácticas e interactivas de matemáticas para graficar funciones en ejes X/Y y resolver ecuaciones con desglose paso a paso.
 
