@@ -43,7 +43,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,threejs,vite,figma&theme=dark)](https://skillicons.dev)
 
 #### 🔌 Backend, Lenguajes & Bases de Datos
-[![My Skills](https://skillicons.dev/icons?i=js,typescript,csharp,python,kotlin,lua,cpp,postgres,mysql,bash,powershell&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,typescript,cs,python,kotlin,lua,cpp,postgres,mysql,firebase,supabase,bash,powershell&theme=dark)](https://skillicons.dev)
 
 #### 🚀 Herramientas, Compilación & Entornos
 [![My Skills](https://skillicons.dev/icons?i=git,github,unity,androidstudio,vscode,blender,netlify,railway&theme=dark)](https://skillicons.dev)
