@@ -19,15 +19,6 @@
 
 ---
 
-### 🏆 Mis Trofeos de GitHub
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://gh-trophy.cdnsoft.net/?username=CoralGamer&theme=dracula&no-bg=true&no-frame=true&column=4" alt="github profile trophy" />
-  </a>
-</p>
-
----
 
 ### 📖 Sobre Mí
 
